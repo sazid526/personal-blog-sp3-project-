@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sazid Blog</title>
+    <link rel = "stylesheet" href ="sazid.css">
+
+</head>
+<body>
+    <div class="sazid">
+        <header>
+            <div id="logo">
+                My Blog
+            </div>
+            <nav>
+                <a href="sazid.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="contact.html">Contact</a>
+                <a href="blog.html">Blog</a>
+            </nav>
+        </header>
+        <div id="image">
+            <img width="100%" src="sazid.jpg" alt="sazid">
+        </div>
+        <main>
+            <section>
+                <article>
+                    <h2 href="">The medicinal properties of tamarind</h2>
+                    <span>By Sazid</span>
+                    <p>Tamarind is a beneficial fruit. It has many qualities. Tamarind pickle is very popular in our country. Especially in marriage. Girls prefer tamarind for its health and taste.
+
+                        According to a group of British scientists, the multiple vitamins and minerals in tamarind help to control blood pressure and tamarind has a special role in controlling diabetes. According to some experts, regular consumption of tamarind does not increase the risk of diabetes.
+                        
+                        </p>
+                </article>
+                <article>
+                    <h2 href ="">Why the world is leaning towards vegetables for skin care</h2>
+                    <span>By Sazid</span>
+                    <p>Nowadays, one of the important things about beauty is that the skin should be soft and radiant. Seen from a distance, it is understood that the skin is very soft. In addition to skin care, diet is an important factor. If you notice, most of the people whose skin is very bright, their lifestyle is quite moderate.
+
+                        They are quite aware of Khawadawa. Because if you do not get a lot of vitamins, anti-oxidants, the skin will never be shiny. And it all comes from a variety of vegetables.</p>
+                </article>
+                <article>
+                    <h2>The world's first university</h2>
+                    <span>By Sazid</span>
+                    <p>The university is a huge pilgrimage place for students to acquire knowledge. The question may be what is the name of the first university in the world? Al-Qarawin University, established in 659 in Fes, Morocco, is mentioned as the first university in the world. The university was one of the leading spiritual and educational centers in the Muslim world. It is basically a religious university based on Islamic education. In the Middle East, Al-Qarawin University played an important role in cultural and institutional relations between the Islamic world and Europe. Cartographer Mohammed al-Idrisi, whose cartographers helped Europeans study during the Renaissance; He studied here.</p>
+                </article>
+                <article>
+                    <h2>The world's first university</h2>
+                    <span>By Sazid</span>
+                    <p>The university is a huge pilgrimage place for students to acquire knowledge. The question may be what is the name of the first university in the world? Al-Qarawin University, established in 659 in Fes, Morocco, is mentioned as the first university in the world. The university was one of the leading spiritual and educational centers in the Muslim world. It is basically a religious university based on Islamic education. In the Middle East, Al-Qarawin University played an important role in cultural and institutional relations between the Islamic world and Europe. Cartographer Mohammed al-Idrisi, whose cartographers helped Europeans study during the Renaissance; He studied here.</p>
+                </article>
+                <article>
+                    <h2>The world's first university</h2>
+                    <span>By Sazid</span>
+                    <p>The university is a huge pilgrimage place for students to acquire knowledge. The question may be what is the name of the first university in the world? Al-Qarawin University, established in 659 in Fes, Morocco, is mentioned as the first university in the world. The university was one of the leading spiritual and educational centers in the Muslim world. It is basically a religious university based on Islamic education. In the Middle East, Al-Qarawin University played an important role in cultural and institutional relations between the Islamic world and Europe. Cartographer Mohammed al-Idrisi, whose cartographers helped Europeans study during the Renaissance; He studied here.</p>
+                </article>
+                <article>
+                    <h2 href ="">Why the world is leaning towards vegetables for skin care</h2>
+                    <span>By Sazid</span>
+                    <p>Nowadays, one of the important things about beauty is that the skin should be soft and radiant. Seen from a distance, it is understood that the skin is very soft. In addition to skin care, diet is an important factor. If you notice, most of the people whose skin is very bright, their lifestyle is quite moderate.
+
+                        They are quite aware of Khawadawa. Because if you do not get a lot of vitamins, anti-oxidants, the skin will never be shiny. And it all comes from a variety of vegetables.</p>
+                </article>
+                <article>
+                    <h2 href ="">Why the world is leaning towards vegetables for skin care</h2>
+                    <span>By Sazid</span>
+                    <p>Nowadays, one of the important things about beauty is that the skin should be soft and radiant. Seen from a distance, it is understood that the skin is very soft. In addition to skin care, diet is an important factor. If you notice, most of the people whose skin is very bright, their lifestyle is quite moderate.
+
+                        They are quite aware of Khawadawa. Because if you do not get a lot of vitamins, anti-oxidants, the skin will never be shiny. And it all comes from a variety of vegetables.</p>
+                </article>
+            </section>
+            <aside>
+                <h3>Useful link</h3>
+                <ul>
+                    <li>
+                        <a href="https://www.linkedin.com/in/tanven-arefin-sazid-3a35651bb/">LinkedIn profile</a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/profile.php?id=100052200077797">Facebook profile</a>
+                    </li>
+                </ul>
+
+            </aside>
+        </main>
+        <footer>
+            &copy; My Blog
+        </footer>
+    </div>
+</body>
+</html>
